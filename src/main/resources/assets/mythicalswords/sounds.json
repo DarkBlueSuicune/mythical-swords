@@ -1,0 +1,7 @@
+{
+  "meow": {
+    "category": "neutral",
+    "subtitle": "mythicalswords.subtitle.meow",
+    "sounds": [ "mythicalswords:meow" ]
+  }
+}

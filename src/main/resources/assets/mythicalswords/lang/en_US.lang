@@ -1,0 +1,36 @@
+#Items
+item.blacksteel.name=Blacksteel Ingot
+item.lightningot.name=Lightningot
+item.nathite.name=Nathite
+item.storm.name=Storm
+
+#Blocks
+tile.nathiteore.name=Nathite Ore
+tile.blacksteelore.name=Blacksteel Ore
+tile.pedestal.name=Pedestal
+
+#Tools
+item.blacksteelsword.name=Blacksteel Sword
+item.blacksteelpickaxe.name=Blacksteel Pickaxe
+item.flast.name=The Flast
+item.justice.name=Justice
+item.theuniter.name=The Uniter
+item.lightningsword.name=Lightning Sword
+item.stormer.name=Stormer
+item.banter.name=Banter
+item.blacksteelhammer.name=Blacksteel Hammer
+item.blacksteelaxe.name=Blacksteel Axe
+item.blacksteelshovel.name=Blacksteel Shovel
+item.blacksteelhoe.name=Blacksteel Hoe
+
+#Armor
+item.melonhelmet.name=Melon Helmet
+item.melonchestplate.name=Melon Chestplate
+item.melonleggings.name=Melon Leggings
+item.melonboots.name=Melon Boots
+
+#Creative Tabs
+itemGroup.materials=Mythical Swords Materials
+itemGroup.tools=Mythical Swords Tools
+itemGroup.armor=Mythical Swords Armor
+itemGroup.blocks=Mythical Swords Blocks

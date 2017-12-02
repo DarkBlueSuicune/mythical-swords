@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mythicalswords",
+  "name": "Mythical Swords Mod",
+  "description": "A mod that adds various swords and tools, some with abilities.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dark_Suicune"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
